@@ -11,13 +11,11 @@ To be able to run the code in this repository, you need to have Cypress installe
 
     Install Cypress using npm:
 
-ruby
 
 $ npm install cypress
 
     Once the installation is complete, you can run the tests using the following command:
 
-ruby
 
 $ npx cypress run
 
