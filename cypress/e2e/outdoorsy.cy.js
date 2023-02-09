@@ -1,4 +1,3 @@
-/// <reference types="Cypress" />
 
 const keywordSearch = "Travel";
 // Function to prevent code duplication
